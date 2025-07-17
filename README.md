@@ -59,7 +59,7 @@ The application follows a clean and scalable architecture pattern:
 </a>
 
 
-You can open this link to watch the demo video of the app.
+You can click on this link to watch the demo video of the app.
 
 ---
 
