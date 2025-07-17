@@ -55,7 +55,7 @@ The application follows a clean and scalable architecture pattern:
 ## Demo Video
 
 <a href="https://www.youtube.com/watch?v=w1zGoO8frsc">
-  <img src="https://github.com/utkarshranjan01/Chime-Compose-ChatApp/blob/main/screenshots/thumbnail.jpg?raw=true" alt="Watch Demo Video" style="width:auto; height:600px;">
+  <img src="https://github.com/utkarshranjan01/Chime-Compose-ChatApp/blob/main/screenshots/thumbnail.jpg?raw=true" alt="Watch Demo Video" style="width:auto; height:300px;">
 </a>
 
 
