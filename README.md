@@ -48,9 +48,9 @@ The application follows a clean and scalable architecture pattern:
 
 Below are sample screenshots of the app (located in the `screenshots/` directory):
 
-|------|------|-------|-------|
-| ![](screenshots/1.png) | ![](screenshots/2.png) | ![](screenshots/3.png) | ![](screenshots/4.png) |
-| ![](screenshots/5.png) | ![](screenshots/6.png) | ![](screenshots/7.png) | ![](screenshots/8.png) |
+| ![](screenshots/1.jpeg) | ![](screenshots/2.jpeg) | ![](screenshots/3.jpeg) | ![](screenshots/4.jpeg) |
+|-------------------------|-------------------------|-------------------------|-------------------------|
+| ![](screenshots/5.jpeg) | ![](screenshots/6.jpeg) | ![](screenshots/7.jpeg) | ![](screenshots/8.jpeg) |
 
 ---
 
