@@ -6,8 +6,6 @@ A featured packed real-time chat application built using **Jetpack Compose** and
 
 ## Screenshots
 
-Below are sample screenshots of the app (located in the `screenshots/` directory):
-
 | ![](screenshots/1.png) | ![](screenshots/2.png) | ![](screenshots/3.png) | ![](screenshots/4.png) |
 |-------------------------|-------------------------|-------------------------|-------------------------|
 | ![](screenshots/5.png) | ![](screenshots/6.png) | ![](screenshots/7.png) | ![](screenshots/8.png) |
