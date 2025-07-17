@@ -48,6 +48,8 @@ The application follows a clean and scalable architecture pattern:
 
 Below are sample screenshots of the app (located in the `screenshots/` directory):
 
+![](screenshots/4.jpeg) 
+
 | Home | Chat | Story | Media |
 |------|------|-------|-------|
 | ![](screenshots/1.jpeg) | ![](screenshots/2.jpeg) | ![](screenshots/3.jpeg) | ![](screenshots/4.jpeg) |
