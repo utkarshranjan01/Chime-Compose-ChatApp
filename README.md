@@ -24,7 +24,7 @@ A featured packed real-time chat application built using **Jetpack Compose** and
 - **Stories**: Upload and view short-lived stories similar to modern chat apps.
 - **Media Sharing**: Send and view images, videos, and documents.
 - **Firestore and Storage Integration**: Scalable and real-time Google Cloud backend with cloud file storage.
-- **Dynamic Theming**: The colors of the app changes according to your wallpaper colors and blend it with your liking.
+- **Material You**: The colors of the app dynamically change according to your wallpaper colors and blend it with your liking.
 
 ---
 
