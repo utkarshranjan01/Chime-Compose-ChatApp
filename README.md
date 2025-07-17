@@ -54,9 +54,9 @@ The application follows a clean and scalable architecture pattern:
 
 ## Demo Video
 
-![Watch Demo Video](screenshots/video.mp4)
+[Watch Demo Video](screenshots/video.mp4)
 
-You can open it locally from the project root directory or host it on a public site like YouTube or GitHub Pages for sharing.
+You can open this link to watch the demo video of the app.
 
 ---
 
