@@ -1,6 +1,6 @@
 # **Chime**: Jetpack Compose Chatting App
 
-A featured packed real-time chat application built using **Jetpack Compose** and **MVVM architecture**, showcasing modern Android development practices. The app includes functionalities such as real-time messaging, stories, typing indicators, read receipts, online presence, multimedia sharing, dynamic theming using material you and many more.
+A featured packed real-time chat application built using **Jetpack Compose** and **MVVM architecture**, showcasing modern Android development practices. The app includes functionalities such as real-time messaging, stories, typing indicators, read receipts, online presence, multimedia sharing, **Material You** dynamic theming using material you and many more.
 
 ---
 
