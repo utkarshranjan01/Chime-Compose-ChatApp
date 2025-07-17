@@ -47,10 +47,11 @@ The application follows a clean and scalable architecture pattern:
 ## Screenshots
 
 Below are sample screenshots of the app (located in the `screenshots/` directory):
-    | Home | Chat | Story | Media |
-      |------|------|-------|-------|
-      | ![](screenshots/1.jpeg) | ![](screenshots/2.jpeg) | ![](screenshots/3.jpeg) | ![](screenshots/4.jpeg) |
-      | ![](screenshots/5.jpeg) | ![](screenshots/6.jpeg) | ![](screenshots/7.jpeg) | ![](screenshots/8.jpeg) |
+
+| Home | Chat | Story | Media |
+|------|------|-------|-------|
+| ![](screenshots/1.jpeg) | ![](screenshots/2.jpeg) | ![](screenshots/3.jpeg) | ![](screenshots/4.jpeg) |
+| ![](screenshots/5.jpeg) | ![](screenshots/6.jpeg) | ![](screenshots/7.jpeg) | ![](screenshots/8.jpeg) |
 
 ---
 
